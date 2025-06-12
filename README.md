@@ -1,5 +1,6 @@
 # DrumMachine
 
+Drum Machine program developed in Python. Made by me
 
 # What you need
 
