@@ -1,6 +1,6 @@
-# DrumMachine
+# HalfBeats
 
-Drum Machine program developed in Python. Made by me
+HalfBeats is a drum machine program developed in Python. Made by me
 
 # What you need
 
